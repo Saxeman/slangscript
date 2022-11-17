@@ -8,6 +8,7 @@ int main(int argc, char *argv[]) {
     string filename = argv[1];
     cout << filename << endl;
     ifstream infile(filename);
+    // this is just a test edit to make sure that git is working
 
     string line;
     while (getline(infile, line)) {
