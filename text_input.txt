@@ -1,0 +1,5 @@
+yo this is a comment
+int val = 4
+idk (val lowkey 6) {
+    print('hello world')
+}
