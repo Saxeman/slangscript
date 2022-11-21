@@ -1,0 +1,1 @@
+// in here we define our private variables for our token class and have our member function declarations
